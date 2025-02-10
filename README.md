@@ -1,10 +1,6 @@
 
 ## 1. Introduction
-<<<<<<< Updated upstream
-This code is for the paper "Relation Beyond Relation: interrelationship mining for Knowledge Graph-based Recommendations" submitted to IJCAI2025.
-=======
 This code is for the paper "Pattern-derived latent relation augmentation for knowledge graph-based recommendations".
->>>>>>> Stashed changes
 
 ## 2. Environment Requirement
 ```
