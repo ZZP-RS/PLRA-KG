@@ -28,7 +28,7 @@ This code requires deployment on Python 3.7.10, and requires packages as follows
 
 
 ## 4. Datasets 
-We provided three datasets along with their corresponding KG to validate InterKG: last-fm, MovieLens1M, and amazon-book. 
+We provided three datasets along with their corresponding KG: last-fm, MovieLens1M, and amazon-book. 
 |       Datasets       | Last-FM | MovieLens1M |Amazon-book | 
 |:------------:|:-------:|:-----------:|-------------|
 |        KG      |Freebase|Freebase|Freebase|
